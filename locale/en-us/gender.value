@@ -1,0 +1,15 @@
+# Please note that these categorisations are solely intended to reduce the bias toward "male" samples in our training data.
+female,female
+woman,female
+feminine,female
+male,male
+man,male
+masculine,male
+non-binary,non-binary
+non binary,non-binary
+agender,non-binary
+a gender,non-binary
+gender fluid,non-binary
+gender queer,non-binary
+pangender,non-binary
+polygender,non-binary
